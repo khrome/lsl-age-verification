@@ -1,0 +1,1602 @@
+[
+    {
+        "question": "Johnny Carson is",
+        "options": {
+            "a": "a singer.",
+            "b": "David Letterman's sidekick.",
+            "c": "Ed McMahon's sidekick.",
+            "d": "an actor."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "VCR stands for",
+        "options": {
+            "a": "Very Confusing Record.",
+            "b": "Visual Cartridge Recording.",
+            "c": "Very Complete Record.",
+            "d": "Video Cassette Recorder."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "The East Coast is",
+        "options": {
+            "a": "home of the Mets.",
+            "b": "a country.",
+            "c": "where people talk funny.",
+            "d": "adjacent to Texas."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Is this software pirated?",
+        "options": {
+            "a": "Yes.",
+            "b": "I'm not talking.",
+            "c": "No. (How could you even ask!)",
+            "d": "No, just borrowed."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Pia Zadora is",
+        "options": {
+            "a": "sexy.",
+            "b": "a singer.",
+            "c": "short.",
+            "d": "all of the above."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The world is",
+        "options": {
+            "a": "flat.",
+            "b": "spherical.",
+            "c": "a big place.",
+            "d": "near Fresno."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "\"Let It Be\" was recorded by",
+        "options": {
+            "a": "the Rolling Stones.",
+            "b": "the Monkees.",
+            "c": "Creedence Clearwater.",
+            "d": "the Beatles."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "All politicians are",
+        "options": {
+            "a": "hardworking.",
+            "b": "honest.",
+            "c": "ethical.",
+            "d": "on the public payroll."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Lingerie is",
+        "options": {
+            "a": "sexy.",
+            "b": "a kind of car.",
+            "c": "a French food.",
+            "d": "edible."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Paul, John, Ringo and",
+        "options": {
+            "a": "Fred.",
+            "b": "George.",
+            "c": "Harry.",
+            "d": "me."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Do girls really have cooties?",
+        "options": {
+            "a": "Yes.",
+            "b": "No.",
+            "c": "Some do, some don't.",
+            "d": "Maybe."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which song was not recorded by Elvis?",
+        "options": {
+            "a": "\"Hound Dog\"",
+            "b": "\"Love Me Tender\"",
+            "c": "\"What'd I Say\"",
+            "d": "\"Heartbreak Hotel\""
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Edsel is a",
+        "options": {
+            "a": "girl's name.",
+            "b": "plane.",
+            "c": "car.",
+            "d": "great investment."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Sex is",
+        "options": {
+            "a": "great.",
+            "b": "ok.",
+            "c": "a spectator sport.",
+            "d": "a mystery to me."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Richard Nixon was the _____ President of the United States.",
+        "options": {
+            "a": "last",
+            "b": "funniest",
+            "c": "thirty-seventh",
+            "d": "first Negro"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "During the 70's, Carroll O'Connor portrayed a",
+        "options": {
+            "a": "kindly doctor.",
+            "b": "lovable bigot.",
+            "c": "handicapped lawyer.",
+            "d": "Negro junk dealer."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The song \"American Pie\" was about",
+        "options": {
+            "a": "miscegenation.",
+            "b": "Marilyn Chambers.",
+            "c": "a dead rock star.",
+            "d": "four minutes too long."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Thomas Eagleton was dropped from the 1972 Democratic National Ticket when knowledge of his previous _____ treatments became known.",
+        "options": {
+            "a": "skin",
+            "b": "screen",
+            "c": "shock",
+            "d": "scalp"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The 70's practice of running around naked was called",
+        "options": {
+            "a": "flashing.",
+            "b": "streaking.",
+            "c": "swinging.",
+            "d": "on account of rain."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Peter Benchley's novel \"Jaws\" was about",
+        "options": {
+            "a": "Linda Lovelace.",
+            "b": "dieting.",
+            "c": "Joan Rivers.",
+            "d": "sharks."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Who was not Vice-President of the United States in 1973-74?",
+        "options": {
+            "a": "Gerald Ford",
+            "b": "Nelson Rockefeller",
+            "c": "Thomas Hayden",
+            "d": "Spiro Agnew"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The \"Chicago Seven\" was",
+        "options": {
+            "a": "some people who only seem crazy in retrospect.",
+            "b": "the Bears' defensive line.",
+            "c": "burned for showing \"Country\" in three different theatres.",
+            "d": "partially convicted."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "President Ford prescribed _____ for dealing with economic problems.",
+        "options": {
+            "a": "tranquilizers",
+            "b": "employment",
+            "c": "that everyone wear a WIN button",
+            "d": "that everyone should have a nice day"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The tackiest seventies fashion was",
+        "options": {
+            "a": "platform shoes.",
+            "b": "midi-skirts.",
+            "c": "short hair.",
+            "d": "bisexuality."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "O. J. Simpson is",
+        "options": {
+            "a": "an R & B singer.",
+            "b": "under indictment.",
+            "c": "embarrassed by his first name (Olivia).",
+            "d": "no one to fool with."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Angela Davis is",
+        "options": {
+            "a": "the middle Pointer Sister.",
+            "b": "a failed politician.",
+            "c": "an example of split ends gone wild.",
+            "d": "Bette's daughter."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Detente is",
+        "options": {
+            "a": "prohibited by law in 41 states.",
+            "b": "a feminine hygiene spray.",
+            "c": "the masculine form of \"deteuse.\"",
+            "d": "a policy to replace war."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Kwi-Chang-Caine became famous by saying",
+        "options": {
+            "a": "\"I am not a crook.\"",
+            "b": "\"The barren fig tree bears no plums.\"",
+            "c": "\"Hi, sailor. New in town?\"",
+            "d": "\"Aaaaaiiiyeeeaagggh!\""
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Ted Kennedy is best remembered for his",
+        "options": {
+            "a": "driving.",
+            "b": "underwater free-style.",
+            "c": "brothers.",
+            "d": "All of the above."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "\"NORML\" is",
+        "options": {
+            "a": "not gay.",
+            "b": "what Falwell wants you to be.",
+            "c": "trying to legalize marijuana.",
+            "d": "misspelled."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Tom Hayden is",
+        "options": {
+            "a": "one of the Chicago Seven.",
+            "b": "a U. S. Congressman.",
+            "c": "Mr. Jane Fonda.",
+            "d": "All of the above."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Spiro Agnew is",
+        "options": {
+            "a": "a form of social disease.",
+            "b": "a jazz-fusion rock band.",
+            "c": "a former Vice President.",
+            "d": "the first woman in Congress."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The germ that transmits syphilis is",
+        "options": {
+            "a": "Spiro Agnew.",
+            "b": "Spirochete.",
+            "c": "Spirograph.",
+            "d": "Barbarella."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Kookie's address was",
+        "options": {
+            "a": "77 Sunset Strip.",
+            "b": "on Wistful Vista Street.",
+            "c": "334 Elm Street.",
+            "d": "1313 Mockingbird Lane."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "\"Who knows what evil lurks in the hearts of men?\"",
+        "options": {
+            "a": "The Psychiatrist",
+            "b": "The Shadow",
+            "c": "The Creeper",
+            "d": "Ingmar Bergman"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Al Lowe is:",
+        "options": {
+            "a": "under 25.",
+            "b": "pregnant.",
+            "c": "never \"carded.\"",
+            "d": "a Woody Allen impersonator."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Frank Sinatra is a",
+        "options": {
+            "a": "female impersonator.",
+            "b": "shy pacifist.",
+            "c": "saloon singer.",
+            "d": "distance runner."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Ralph Boysen invented",
+        "options": {
+            "a": "the boysenberry.",
+            "b": "fins on 50's cars.",
+            "c": "bell bottomed jeans.",
+            "d": "the juke box."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The first man on the moon was",
+        "options": {
+            "a": "John Glenn.",
+            "b": "Neil Diamond.",
+            "c": "Neil Armstrong.",
+            "d": "Jack Armstrong."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "\"Gone With The Wind\" is about",
+        "options": {
+            "a": "outer space.",
+            "b": "a bank robbery.",
+            "c": "four hours long.",
+            "d": "dust."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who is not a sportscaster?",
+        "options": {
+            "a": "Jayne Kennedy",
+            "b": "Howard Cosell",
+            "c": "Jayne Mansfield",
+            "d": "Frank Gifford"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which is not a wine?",
+        "options": {
+            "a": "Colombard",
+            "b": "Bon Aire",
+            "c": "Cabernet",
+            "d": "Muscatel"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is not a mountain range?",
+        "options": {
+            "a": "Cayman",
+            "b": "Appalachian",
+            "c": "Rockies",
+            "d": "Himalayas"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In the movie, \"Paint Your Wagon,\" Clint Eastwood sang",
+        "options": {
+            "a": "\"I Talk to the Trees\"",
+            "b": "\"Go Ahead, Make My Wagon\"",
+            "c": "\"I If Had A Mayor\"",
+            "d": "None of the above."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The drink \"Screwdriver\" contains",
+        "options": {
+            "a": "tomato juice.",
+            "b": "orange juice.",
+            "c": "grapefruit juice.",
+            "d": "borax."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Ronald Reagan's co-star in \"Bedtime for Bonzo\" was",
+        "options": {
+            "a": "a monkey.",
+            "b": "Peter O'Toole.",
+            "c": "Bonzo the Clown.",
+            "d": "Marilyn Monroe."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The slogan \"It takes two hands to handle a whopper\" refers to",
+        "options": {
+            "a": "John Holmes.",
+            "b": "a hamburger.",
+            "c": "overstuffed grocery bags.",
+            "d": "fishing."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If you arrived at a party wearing your birthday suit, you would",
+        "options": {
+            "a": "make many new friends.",
+            "b": "be thrown out.",
+            "c": "fit right in.",
+            "d": "It depends on the party."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Cesar Chavez led a boycott of",
+        "options": {
+            "a": "grapes.",
+            "b": "X-rated movies.",
+            "c": "dirty magazines.",
+            "d": "goods from South Africa."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "James Brown is often referred to as",
+        "options": {
+            "a": "the Chairman of the Board.",
+            "b": "a great athlete.",
+            "c": "the Velvet Fog.",
+            "d": "the Godfather of Soul."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Who lost a daughter but gained a \"meathead?\"",
+        "options": {
+            "a": "George Jefferson",
+            "b": "Ronald Reagan",
+            "c": "Archie Bunker",
+            "d": "Ted Knight"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which U. S. Secretary of State was born in Germany?",
+        "options": {
+            "a": "Dean Rusk",
+            "b": "William Rogers",
+            "c": "George Schultz",
+            "d": "Henry Kissinger"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Who was the inventive genius behind the Apple computer?",
+        "options": {
+            "a": "Bill Gates",
+            "b": "Steve Wozniak",
+            "c": "Ken Williams",
+            "d": "Steve Russell"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "\"Close Encounters of the Third Kind\" is about",
+        "options": {
+            "a": "politics in third-world countries.",
+            "b": "homo- and heterosexual sex.",
+            "c": "creatures from outer space.",
+            "d": "a bicycle race across Alaska."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "IBM stands for",
+        "options": {
+            "a": "Ittsy Bittsy Men.",
+            "b": "International Business Machines.",
+            "c": "Italian Branch of the Mafia.",
+            "d": "Iranian Broom Makers."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who was NOT in the movie \"Easy Rider?\"",
+        "options": {
+            "a": "Peter Fonda",
+            "b": "Dennis Hopper",
+            "c": "Karen Black",
+            "d": "Karen Carpenter"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Las Vegas is famous for",
+        "options": {
+            "a": "its beaches.",
+            "b": "being the capital of Arizona.",
+            "c": "gambling.",
+            "d": "its weather."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The term \"Working Girl\" refers to",
+        "options": {
+            "a": "a secretary.",
+            "b": "a lady of negotiable virtue.",
+            "c": "an industrious woman.",
+            "d": "an employed female."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Making a \"Hole in One\" is",
+        "options": {
+            "a": "every golfer's dream.",
+            "b": "too dirty to discuss here.",
+            "c": "something carpenters do.",
+            "d": "best done with scissors."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "My boss is",
+        "options": {
+            "a": "a jerk.",
+            "b": "a total jerk.",
+            "c": "an absolute total jerk.",
+            "d": "responsible for my paycheck."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "How many programmers does it take to screw in a light bulb?",
+        "options": {
+            "a": "None, it's a hardware problem.",
+            "b": "None, programmers can't fit in light bulbs.",
+            "c": "100. One to hold the bulb and 99 to debug the house.",
+            "d": "None so far, but they'll get to it Real Soon Now."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "A hard disk is",
+        "options": {
+            "a": "better than a floppy.",
+            "b": "embarrassing to have at the office.",
+            "c": "a state-of-the-art frisbee.",
+            "d": "what happens when you leave your floppy out in the sun too long."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In some personal ads, TV stands for",
+        "options": {
+            "a": "television.",
+            "b": "transvestite.",
+            "c": "trans-venereal.",
+            "d": "terre-voracic."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Lucy, Ricky, Fred and",
+        "options": {
+            "a": "Barney.",
+            "b": "Carol.",
+            "c": "Alice.",
+            "d": "Ethel."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Mel Brooks is",
+        "options": {
+            "a": "black.",
+            "b": "Puerto Rican.",
+            "c": "a comedian.",
+            "d": "Catholic."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "It is customary to tip about",
+        "options": {
+            "a": "2 per cent.",
+            "b": "6 per cent.",
+            "c": "15 per cent.",
+            "d": "25 per cent."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Blackjack is",
+        "options": {
+            "a": "an ace and a face card.",
+            "b": "used by policemen.",
+            "c": "related to Caucasian Tom.",
+            "d": "a kind of car sold only in Fresno."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Canada is",
+        "options": {
+            "a": "where Canadians live.",
+            "b": "north of the U. S.",
+            "c": "adjacent to the U. S.",
+            "d": "All of the above."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Oral Roberts is",
+        "options": {
+            "a": "a thermometer technique.",
+            "b": "an evangelist.",
+            "c": "best done with a friend.",
+            "d": "shy."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Richard Nixon was",
+        "options": {
+            "a": "an audio technician.",
+            "b": "a plumber's friend.",
+            "c": "a comedian.",
+            "d": "a president."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "A 747 is",
+        "options": {
+            "a": "a cocktail.",
+            "b": "a perfect bowling score.",
+            "c": "a large airplane.",
+            "d": "a prime number."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Whips, chains and handcuffs are",
+        "options": {
+            "a": "kinky.",
+            "b": "used by police departments.",
+            "c": "usually in text adventures.",
+            "d": "only permitted in Eastern schools."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "A Macintosh is",
+        "options": {
+            "a": "a kind of Apple.",
+            "b": "a kind of apple.",
+            "c": "an article of clothing.",
+            "d": "All of the above."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "My parents are",
+        "options": {
+            "a": "age 10 to 25.",
+            "b": "age 25 to 30.",
+            "c": "age 31 to 35.",
+            "d": "36 or over."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "My favorite actor is",
+        "options": {
+            "a": "Pia Zadora.",
+            "b": "Fred Flintstone.",
+            "c": "Jim Bakker.",
+            "d": "not listed here."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "I have hair on my",
+        "options": {
+            "a": "head.",
+            "b": "palms.",
+            "c": "keyboard.",
+            "d": "lottsa places."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "When it's noon in California in August, in St. Louis it's",
+        "options": {
+            "a": "miserable.",
+            "b": "2:00 p.m.",
+            "c": "3:00 p.m.",
+            "d": "time for a beer."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The best \"pick-up\" line is:",
+        "options": {
+            "a": "Hey baby, what's your sign?",
+            "b": "Want to go for a ride in my Porsche?",
+            "c": "For a fat girl, you sure don't sweat much!",
+            "d": "Do you know where I can buy some Vaseline?"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The \"Mile-High Club\" is",
+        "options": {
+            "a": "a bird-watching society.",
+            "b": "a Denver ski club.",
+            "c": "a bar in East L. A.",
+            "d": "open to those who have performed aerial acrobatics inside a plane's rest room."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "My sex life is best described as",
+        "options": {
+            "a": "non-existent and non-contemplated.",
+            "b": "what sex life?",
+            "c": "none of your business!!",
+            "d": "a ripening tomato."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Elizabeth Taylor is",
+        "options": {
+            "a": "an actress.",
+            "b": "creator of a line of cosmetics.",
+            "c": "celebrating her silver wedding anniversary.",
+            "d": "a singer."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Joan Rivers is",
+        "options": {
+            "a": "the real name of \"Dear Abby.\"",
+            "b": "engaged to Johnny Carson.",
+            "c": "a former talk show hostess.",
+            "d": "polite to all those around her."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who starred in \"Bedtime for Bonzo?\"",
+        "options": {
+            "a": "Clint Eastwood",
+            "b": "Fred Astaire",
+            "c": "Cary Grant",
+            "d": "Ronald Reagan"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Taxes should be",
+        "options": {
+            "a": "lower.",
+            "b": "higher.",
+            "c": "unchanged.",
+            "d": "eliminated."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "A moon is",
+        "options": {
+            "a": "an astronomical body.",
+            "b": "a practical joke.",
+            "c": "a form of pie.",
+            "d": "all of the above."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Marlon Brando is",
+        "options": {
+            "a": "a singer.",
+            "b": "an actor.",
+            "c": "a politician.",
+            "d": "a kind of soap."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "I am presently",
+        "options": {
+            "a": "in elementary school.",
+            "b": "in junior high.",
+            "c": "fighting acne.",
+            "d": "past puberty."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Herpes is",
+        "options": {
+            "a": "caught from toilet seats.",
+            "b": "a French dessert.",
+            "c": "socially desirable.",
+            "d": "fatal (if given to your spouse)."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "ERA is an abbreviation for",
+        "options": {
+            "a": "Earnest Realtors of America.",
+            "b": "Equal Rights Amendment.",
+            "c": "Erogenous Readers Association.",
+            "d": "Error Recovery Associates."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "G. Gordon Liddy was associated with",
+        "options": {
+            "a": "the Mob.",
+            "b": "Calvin Klein.",
+            "c": "Elizabeth Taylor.",
+            "d": "the Plumbers."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What was illegal during Prohibition?",
+        "options": {
+            "a": "aphrodisiacs",
+            "b": "alcohol",
+            "c": "abstinence",
+            "d": "perversion"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Bonnie and",
+        "options": {
+            "a": "Ronnie",
+            "b": "Clyde",
+            "c": "Hubbard",
+            "d": "Clod"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who spends the most time in Las Vegas?",
+        "options": {
+            "a": "Michael J. Fox",
+            "b": "Wayne Newton",
+            "c": "J. Paul Getty",
+            "d": "Paul Volcker"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which U. S. President was not elected to office?",
+        "options": {
+            "a": "Johnson",
+            "b": "Eisenhower",
+            "c": "Ford",
+            "d": "Cleveland"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which is not a currency?",
+        "options": {
+            "a": "yen",
+            "b": "lira",
+            "c": "fennel",
+            "d": "rupee"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which is not a baseball team?",
+        "options": {
+            "a": "Blue Jays",
+            "b": "Cardinals",
+            "c": "Seahawks",
+            "d": "Orioles"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who made a record album with a cover that looked like a pair of blue jeans, complete with a working zipper?",
+        "options": {
+            "a": "Rolling Stones",
+            "b": "Boy George",
+            "c": "Olivia Newton Jean",
+            "d": "Madonna"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "\"The American television debut of Bob Hope, Dinah Shore, Elvis, and the Beatles was on",
+        "options": {
+            "a": "\"The Ed Sullivan Show.\"",
+            "b": "\"Your Show of Shows.\"",
+            "c": "\"The Tonight Show.\"",
+            "d": "\"My Mother, the Car.\""
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Michael Doonesbury founded",
+        "options": {
+            "a": "the American Nazi Party.",
+            "b": "Walden Puddle Commune.",
+            "c": "the Young Republicans.",
+            "d": "the Grace Jones Fan Club."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The first baseball player to challenge the reserve clause was",
+        "options": {
+            "a": "Philly Jo Jones.",
+            "b": "Roger Maris.",
+            "c": "Curt Flood.",
+            "d": "Ted Williams."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The first Negro to play Major League Baseball was",
+        "options": {
+            "a": "Jackie Robinson.",
+            "b": "Joe DiMaggio.",
+            "c": "Benny Goodman.",
+            "d": "Satchel Paige."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Former Congressman Wilbur Mills went for a dip in the Tidal Basin with",
+        "options": {
+            "a": "nothing on but his pride.",
+            "b": "a stripper named Fanne.",
+            "c": "his dog Spot.",
+            "d": "a 20-year-old secretary."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Martha Mitchell was",
+        "options": {
+            "a": "a porno star.",
+            "b": "a famous author.",
+            "c": "the outspoken wife of an Attorney General.",
+            "d": "All of the above."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The G-Spot is supposed to be",
+        "options": {
+            "a": "Ground Zero at a nuclear blast.",
+            "b": "a female erogenous zone.",
+            "c": "an unexplained astro- nomical discovery.",
+            "d": "the place where the FBI was first established."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Hugh Hefner is usually photographed in",
+        "options": {
+            "a": "the nude.",
+            "b": "a hot tub.",
+            "c": "his current lover's arms.",
+            "d": "pajamas."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "The 1973 album \"Dark Side of the Moon\" was recorded by",
+        "options": {
+            "a": "Pink Floyd.",
+            "b": "Deep Purple.",
+            "c": "Bad News.",
+            "d": "the Grateful Dead."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "When playing \"Monopoly\" you",
+        "options": {
+            "a": "hope for a straight flush.",
+            "b": "must own four houses before building a hotel.",
+            "c": "need a black jack to win.",
+            "d": "win with a seven and a five."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is not in Hawaii?",
+        "options": {
+            "a": "Oahu",
+            "b": "Kauai",
+            "c": "Fiji",
+            "d": "Maui"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which is not a car?",
+        "options": {
+            "a": "Ferrari",
+            "b": "Porsche",
+            "c": "Corvair",
+            "d": "Toshiba"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "President Eisenhower's nickname was",
+        "options": {
+            "a": "Tink.",
+            "b": "Blackjack.",
+            "c": "Ike.",
+            "d": "Tina."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Bourbon Street is in",
+        "options": {
+            "a": "Whiskeyville, Indiana.",
+            "b": "Jackass Flats, Idaho.",
+            "c": "\"Monopoly.\"",
+            "d": "New Orleans, Louisiana."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Does a pair of queens beat three deuces?",
+        "options": {
+            "a": "Yes, in blackjack.",
+            "b": "Yes, in poker.",
+            "c": "No, in canasta.",
+            "d": "It depends on what the three deuces said."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Calvin Klein is",
+        "options": {
+            "a": "married to Brooke Shields.",
+            "b": "a movie star.",
+            "c": "a clothing designer.",
+            "d": "President of the Coarsegold Chamber of Commerce."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Two bits is",
+        "options": {
+            "a": "all it takes to consume a \"Big Mac.\"",
+            "b": "computer talk.",
+            "c": "about a dollar.",
+            "d": "the former cost for a shave and a haircut."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Charlie McCarthy and",
+        "options": {
+            "a": "John Lennon",
+            "b": "Louis Pasteur",
+            "c": "Albert Einstein",
+            "d": "Edgar Bergen"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Who is not a famous musician?",
+        "options": {
+            "a": "Lawrence Welk",
+            "b": "Tommy Dorsey",
+            "c": "Les Brown",
+            "d": "Steve Garvey"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which is non-alcoholic?",
+        "options": {
+            "a": "whiskey",
+            "b": "Grand Marnier",
+            "c": "Perrier",
+            "d": "tequila"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who was not a politician?",
+        "options": {
+            "a": "Richard Nixon",
+            "b": "Ronald Reagan",
+            "c": "W. C. Fields",
+            "d": "George Bush"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The last name of Annette (on the original Mickey Mouse Club) was",
+        "options": {
+            "a": "Funnicular.",
+            "b": "that WAS her last name.",
+            "c": "Funicello.",
+            "d": "Avalon."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "\"Tiptoe Through the Tulips\" was recorded by",
+        "options": {
+            "a": "Alice Cooper.",
+            "b": "Alice B. Toklas.",
+            "c": "Tiny Tim.",
+            "d": "Big Tiny Little."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which one of these was not a war?",
+        "options": {
+            "a": "Crimean",
+            "b": "Korean",
+            "c": "Chinese",
+            "d": "Vietnamese"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who's buried in Grant's tomb?",
+        "options": {
+            "a": "Grant Tinker",
+            "b": "Land Grant",
+            "c": "NSF Grant",
+            "d": "Mrs. Grant"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "John F. Kennedy drove a",
+        "options": {
+            "a": "PT boat.",
+            "b": "spike faster than a steam driver.",
+            "c": "battleship.",
+            "d": "Ferrari."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Peter Piper picked a peck of pickled",
+        "options": {
+            "a": "pips.",
+            "b": "pipers.",
+            "c": "peppers.",
+            "d": "peekers."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "A result of Watergate was",
+        "options": {
+            "a": "the loss of water.",
+            "b": "Jimmy Carter quit.",
+            "c": "Richard Nixon quit.",
+            "d": "Gerald Ford quit."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "I find computer games with adult content",
+        "options": {
+            "a": "offensive.",
+            "b": "acceptable.",
+            "c": "repulsive.",
+            "d": "under my bed."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The Atlantic and Pacific Oceans are connected by the",
+        "options": {
+            "a": "Panama Canal.",
+            "b": "Snake River.",
+            "c": "hips.",
+            "d": "Isthmus of Panama."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The most likely place to find virgins is",
+        "options": {
+            "a": "The Virgin Islands.",
+            "b": "Virginia.",
+            "c": "St. Mary's Girls School.",
+            "d": "Hollywood."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who wrote \"To be, or not to be?\"",
+        "options": {
+            "a": "Bill Shakespeare.",
+            "b": "Paul McCartney.",
+            "c": "George Bernard Shaw.",
+            "d": "Tennessee Williams."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "The largest state is",
+        "options": {
+            "a": "California.",
+            "b": "Alaska.",
+            "c": "Rhode Island.",
+            "d": "Texas."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Utah is full of",
+        "options": {
+            "a": "fresh water.",
+            "b": "Jews.",
+            "c": "Catholics.",
+            "d": "None of the above."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "The leader of Nazi Germany was",
+        "options": {
+            "a": "Boris Godunov.",
+            "b": "Mussolini.",
+            "c": "Oleg Cassinni.",
+            "d": "Adolph Hitler."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Lee Harvey Oswald killed",
+        "options": {
+            "a": "Harvey Milk.",
+            "b": "Charles Nelson Reilly.",
+            "c": "John Fitzgerald Kennedy.",
+            "d": "William Randolph Hearst."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "How many molecules are in a glass of water?",
+        "options": {
+            "a": "one million",
+            "b": "one trillion",
+            "c": "one million trillion",
+            "d": "as many as there are glasses of water in the whole world"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "If a physician were stranded on a desert island with Bo Derek, he would probably",
+        "options": {
+            "a": "build a boat.",
+            "b": "take two aspirins.",
+            "c": "overcharge her.",
+            "d": "thank God."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "If Bo Derek were here, I'd ask her to",
+        "options": {
+            "a": "leave.",
+            "b": "respect my privacy.",
+            "c": "help me with my homework.",
+            "d": "stop playing computer games."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Joe DiMaggio played",
+        "options": {
+            "a": "pool.",
+            "b": "baseball.",
+            "c": "basketball.",
+            "d": "trumpet."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "The most populous city in the United States is",
+        "options": {
+            "a": "Los Angeles.",
+            "b": "Mexico City.",
+            "c": "New York.",
+            "d": "Chicago."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "A nehru jacket is",
+        "options": {
+            "a": "made from tanned nehru hides.",
+            "b": "out of date.",
+            "c": "a Middle Eastern prophylactic.",
+            "d": "around a car's radiator."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Sergeant Pepper was",
+        "options": {
+            "a": "the Beatles' chauffeur.",
+            "b": "Elvis' manager.",
+            "c": "the leader of the Lonely Hearts Club Band.",
+            "d": "hung for treason."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which is not an American armed force?",
+        "options": {
+            "a": "the Army",
+            "b": "the Navy",
+            "c": "the National Guard",
+            "d": "the National League"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "The most effective form of birth control is",
+        "options": {
+            "a": "abstinence.",
+            "b": "the Rhythm Method.",
+            "c": "the Pill.",
+            "d": "dating ugly people."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which is not a city in Mexico?",
+        "options": {
+            "a": "Tijuana",
+            "b": "Puerto Vallarta",
+            "c": "San Diego",
+            "d": "Mexico City"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Herb Alpert and the _____ Brass",
+        "options": {
+            "a": "Tijuana",
+            "b": "Boss",
+            "c": "Canadian",
+            "d": "Top"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "\"It's not nice to fool\"",
+        "options": {
+            "a": "Mother Hubbard.",
+            "b": "Mother Nature.",
+            "c": "the government.",
+            "d": "Mayor Daly."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "\"Where's the\"",
+        "options": {
+            "a": "catsup?",
+            "b": "toilet?",
+            "c": "beef?",
+            "d": "rest of this game?"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who was not an astronaut?",
+        "options": {
+            "a": "John Milton",
+            "b": "John Glenn",
+            "c": "Neil Armstrong",
+            "d": "Richard Gordon"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who has not been a U. S. Attorney General?",
+        "options": {
+            "a": "John Mitchell",
+            "b": "Sam Shepard",
+            "c": "Ramsey Clark",
+            "d": "Herbert Browner"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is not a cheese?",
+        "options": {
+            "a": "Jarlsburg",
+            "b": "Mozzarella",
+            "c": "Brie",
+            "d": "Reisling"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Captain Kangaroo's sidekick was",
+        "options": {
+            "a": "Mr. Potato Head.",
+            "b": "Winnie the Pooh.",
+            "c": "Mr. Rogers.",
+            "d": "Mr. Greenjeans."
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Mohammed Ali is",
+        "options": {
+            "a": "a ballet star.",
+            "b": "an Arab terrorist.",
+            "c": "a professional boxer.",
+            "d": "a singer."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who is not a mass murderer?",
+        "options": {
+            "a": "Charlie Manson",
+            "b": "Ted Bundy",
+            "c": "Jack the Ripper",
+            "d": "Timothy Leary"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "There are about _____ calories in a can of beer.",
+        "options": {
+            "a": "15",
+            "b": "150",
+            "c": "1500",
+            "d": "15000"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "John Belushi was on",
+        "options": {
+            "a": "\"Mr. Rogers.\"",
+            "b": "\"The PTL club.\"",
+            "c": "\"My Mother the Car.\"",
+            "d": "\"Saturday Night Live.\""
+        },
+        "answer": "d"
+    },
+    {
+        "question": "James Earl Jones was the voice of",
+        "options": {
+            "a": "Jason in \"Friday the 13th.\"",
+            "b": "Freddie in \"Nightmare on Elm Street.\"",
+            "c": "Darth Vader in \"Star Wars.\"",
+            "d": "Kriswell in \"Plan 9 From Outer Space.\""
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Doonesbury's \"Uncle Duke\" is based on",
+        "options": {
+            "a": "Jeffrey Hunter.",
+            "b": "Hunter S. Thompson.",
+            "c": "Huntz Hall.",
+            "d": "None of the above."
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In Westworld, \"where nothing can go wrong,\" guests were entertained by",
+        "options": {
+            "a": "Stephen Wright.",
+            "b": "X-rated movies.",
+            "c": "robots.",
+            "d": "Rodney Dangerfield."
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Mork was from the planet",
+        "options": {
+            "a": "Ork.",
+            "b": "Vulcan.",
+            "c": "Krypton.",
+            "d": "Pluto."
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was banned from \"Saturday Night Live\" because he lost a telephone poll?",
+        "options": {
+            "a": "John Belushi",
+            "b": "Dan Akroyd",
+            "c": "Chevy Chase",
+            "d": "Andy Kaufman"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "The phrase \"Cutting the cheese\" refers to",
+        "options": {
+            "a": "hors d'oevres preparation.",
+            "b": "topping another French chef.",
+            "c": "leaving a warm climate.",
+            "d": "flatulence."
+        },
+        "answer": "d"
+    }
+]

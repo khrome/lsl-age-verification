@@ -1,0 +1,365 @@
+[
+    {
+        "question":"What taste treat is pictured to the right of the frankfurters in the “Palamino Ranch” brochure?",
+        "answer": "a",
+        "options": {
+            "a":"Beans",
+            "b":"Tacos",
+            "c":"Breakfast fajitas",
+            "d":"Fried Eggs and cornbreads"
+        }
+    },{
+        "question":"What taste treat is pictured to the left of the frankfurters in the “Palamino Ranch” brochure?",
+        "answer": "b",
+        "options": {
+            "a":"Beans",
+            "b":"Tacos",
+            "c":"Breakfast fajitas",
+            "d":"Fried Eggs and cornbreads"
+        }
+    },{
+        "question":"What do the cowgirls have at the Palamino Ranch?",
+        "answer": "c",
+        "options": {
+            "a":"All the rope you’ll need",
+            "b":"Band-aids ‘n banjos",
+            "c":"Jugs o’ moonshine",
+            "d":"Bed rolls ‘n chaps"
+        }
+    },{
+        "question":"According to the “Palamino Ranch” brochure, where can you see oozing paint pots year ‘round?",
+        "answer": "b",
+        "options": {
+            "a":"Moaning Glory Acres",
+            "b":"Carla’s Bad Caverns",
+            "c":"The Lost Wages Mystery Hole",
+            "d":"Coarsegold, California"
+        }
+    },{
+        "question":"Which of his cards does “Whose Whom” want Larry to use?",
+        "answer": "a",
+        "options": {
+            "a":"Non",
+            "b":"Master-Pay-It",
+            "c":"American Espresso",
+            "d":"Whiner’s Club"
+        }
+    },{
+        "question":"Which color is the line under the letterhead of the “Whose Whom” letter?",
+        "answer": "a",
+        "options": {
+            "a":"Red",
+            "b":"Blue",
+            "c":"Green",
+            "d":"Black"
+        }
+    },{
+        "question":"The map directing you to the Palamino Ranch looks like:",
+        "answer": "d",
+        "options": {
+            "a":"a map of Fresno",
+            "b":"a map of Manhattan",
+            "c":"a guide to Swedish hot pages",
+            "d":"a closeup of Baked Beans"
+        }
+    }
+    ,{
+        "question":"What is the color of the sunset behind the cowboy riding the bucking bronco beneath the word “tenderfoot” on the “Palamino Ranch” brochure?",
+        "answer": "d",
+        "options": {
+            "a":"Mauve",
+            "b":"Puce",
+            "c":"Burnt Avocado",
+            "d":"Salmon"
+        }
+    }
+    ,{
+        "question":"According to “Whose Whom,” Larry prefers his ladies' derrieres",
+        "answer": "d",
+        "options": {
+            "a":"firm",
+            "b":"rounded",
+            "c":"petite",
+            "d":"yes"
+        }
+    },{
+        "question":"The man on the cover of the Palamino Ranch brochure is about to",
+        "answer": "b",
+        "options": {
+            "a":"hang",
+            "b":"draw",
+            "c":"lasso",
+            "d":"ride"
+        }
+    },{
+        "question":"According to “Whose Whom,” what does Larry Laffer do for a living?",
+        "answer": "a",
+        "options": {
+            "a":"Traveling software salesman",
+            "b":"Semi-professional gambler",
+            "c":"Ramblin' kinda guy",
+            "d":"Model for autmobile windshield shades"
+        }
+    },{
+        "question":"According to “Whose Whom,” what length legs does Larry prefer his women to have?",
+        "answer": "b",
+        "options": {
+            "a":"Long enough to reach the ground",
+            "b":"Any length",
+            "c":"65 inches",
+            "d":"Similar"
+        }
+    },{
+        "question":"The man in the little picture above the word “Activities” in the “Palamino Ranch” brochure is saddling up a",
+        "answer": "c",
+        "options": {
+            "a":"horse",
+            "b":"bull",
+            "c":"fence",
+            "d":"calf"
+        }
+    },{
+        "question":"According to “Whose Whom,” what kind of hair does Larry prefer his women to have?",
+        "answer": "a",
+        "options": {
+            "a":"Clear",
+            "b":"Real",
+            "c":"Blonde",
+            "d":"Thick, luxuriant and kissably soft"
+        }
+    },{
+        "question":"How far is the Palamino Ranch from the Humongous Tetons?",
+        "answer": "d",
+        "options": {
+            "a":"Spittin' distance",
+            "b":"Just down the road",
+            "c":"2 miles",
+            "d":"5 miles"
+        }
+    },{
+        "question":"How does the Vice President of “Whose Whom's” Direct Male Department sign his name?",
+        "answer": "b",
+        "options": {
+            "a":"Sincerely",
+            "b":"Enthusiastically",
+            "c":"Hungrily",
+            "d":"Admiringly"
+        }
+    },{
+        "question":"In the small photo next to the word “spread” in the “Palamino Ranch” brochure, a cowboy seems to be hugging",
+        "answer": "d",
+        "options": {
+            "a":"a rodeo clown",
+            "b":"another cowboy",
+            "c":"a cowgirl",
+            "d":"a cow"
+        }
+    },{
+        "question":"Whose address appears at the bottom of the “Whose Whom” brochure?",
+        "answer": "a",
+        "options": {
+            "a":"Sierra On-Line",
+            "b":"\“Whose Whom in America's\”",
+            "c":"Lawrence Laffer's",
+            "d":"None. This is a trick question!"
+        }
+    },{
+        "question":"According to “Whose Whom,” how well-endowed does Larry prefer his women?",
+        "answer": "d",
+        "options": {
+            "a":"Any size",
+            "b":"Long enough to reach the ground",
+            "c":"Petite blossoms",
+            "d":"Medium handfuls"
+        }
+    },{
+        "question":"What will the folks at the Palamino Ranch show the “wimmenfolk” how to do?",
+        "answer": "a",
+        "options": {
+            "a":"Pull taffy under the stars",
+            "b":"Make patchwork quilts at the Bee",
+            "c":"Churn ice cream down by the barn",
+            "d":"Lance boils up at the infirmary"
+        }
+    },{
+        "question":"Who is the Vice President of “Whose Whom's” Direct Male Department?",
+        "answer": "b",
+        "options": {
+            "a":"Phil DeKonndom",
+            "b":"Adolph Muhweeny",
+            "c":"Kent Getitup",
+            "d":"Les Befrenz"
+        }
+    },{
+        "question":"“Whose Whom” thinks Larry and men like him are",
+        "answer": "b",
+        "options": {
+            "a":"manly, macho and miserable.",
+            "b":"fabulouso, studly, sensitive.",
+            "c":"brilliant, bronzed, brawny.",
+            "d":"sweet, suave and sophisticaded."
+        }
+    },{
+        "question":"The map that shows you how to get to the Palamino Ranch is",
+        "answer": "c",
+        "options": {
+            "a":"a side of bacon.",
+            "b":"a slab of steak.",
+            "c":"a pile of beans.",
+            "d":"an ear of corn."
+        }
+    },{
+        "question":"Getting to the Palamino Ranch is easier than",
+        "answer": "c",
+        "options": {
+            "a":"fallin' of a log",
+            "b":"findin' a needle in a haystack",
+            "c":"pickin' off a saddlesore",
+            "d":"goin' outhouse-tippin' at midnight"
+        }
+    },{
+        "question":"According to “Whose Whom,” how old is Larry Laffer?",
+        "answer": "b",
+        "options": {
+            "a":"39",
+            "b":"40",
+            "c":"35, going on 16",
+            "d":"50"
+        }
+    },{
+        "question":"The phone number for the Palamino Ranch is",
+        "answer": "a",
+        "options": {
+            "a":"1-800-ZIP-DOWN",
+            "b":"1-800-KIS-QUIK",
+            "c":"1-800-COW-WHIZ",
+            "d":"1-800-MIZ-BULL"
+        }
+    },{
+        "question":"What's not allowed at the Palamino Ranch?",
+        "answer": "b",
+        "options": {
+            "a":"Cow-tippin'",
+            "b":"Spurs",
+            "c":"Bareback ridin'",
+            "d":"Cow pokin'"
+        }
+    },{
+        "question":"What kind of contest is held on Tuesdays at the Palamino Ranch?",
+        "answer": "c",
+        "options": {
+            "a":"Cowpine throwin'",
+            "b":"Hog callin'",
+            "c":"Canyon Yodelin'",
+            "d":"Pie eatin'"
+        }
+    },{
+        "question":"In the “Palamino Ranch” brochure, the gal sittin' 'round the campfire is playing a",
+        "answer": "b",
+        "options": {
+            "a":"harmonica",
+            "b":"guitar",
+            "c":"jaw harp",
+            "d":"flute-a-phone"
+        }
+    },{
+        "question":"What color is the dotted line at the bottom of the “Whose Whom” letter?",
+        "answer": "a",
+        "options": {
+            "a":"Navy blue",
+            "b":"Seafoam green",
+            "c":"Raspberry red",
+            "d":"Orange orange"
+        }
+    },{
+        "question":"The address on the back of the “Whose Whom” letter is",
+        "answer": "b",
+        "options": {
+            "a":"smeared",
+            "b":"invisible",
+            "c":"scrawled on by a child",
+            "d":"also Al Lowe's home address"
+        }
+    },{
+        "question":"Which one of the following is NOT one of the activities at the Palamino Ranch?",
+        "answer": "d",
+        "options": {
+            "a":"Cow pokin'",
+            "b":"Bareback ridin'",
+            "c":"Ropin' fillies",
+            "d":"Cattle rustlin'"
+        }
+    },{
+        "question":"What's for lunch at the Palamino Ranch?",
+        "answer": "c",
+        "options": {
+            "a":"Grubsteaks and baked potatoes",
+            "b":"Tacos and hot buns",
+            "c":"Cornbred and chili",
+            "d":"Weiners-in-a-blanket"
+        }
+    },{
+        "question":"The Palamino Ranch is available for",
+        "answer": "a",
+        "options": {
+            "a":"bar-mitzvahs",
+            "b":"confirmations",
+            "c":"anniversaries",
+            "d":"St. Trixie's Day of Self-Flagellation"
+        }
+    },{
+        "question":"What color is the border on top of the “Palamino Ranch” brochure?",
+        "answer": "a",
+        "options": {
+            "a":"Blue-gray",
+            "b":"Aquamarine",
+            "c":"Rust",
+            "d":"Dusty beige"
+        }
+    },{
+        "question":"The offices of “Whose Whom” are located in",
+        "answer": "b",
+        "options": {
+            "a":"Lost Wages",
+            "b":"Salt Lick City",
+            "c":"Sins-in-Addie",
+            "d":"New Dork City"
+        }
+    },{
+        "question":"The Vice President of “Whose Whom's” Direct Male department signs his name with a",
+        "answer": "d",
+        "options": {
+            "a":"black fountain pen",
+            "b":"blue felt-tip pen",
+            "c":"leaky gold magic marker",
+            "d":"red fine-tip pen"
+        }
+    },{
+        "question":"According to “Whose Whom in America,” what kind of credit risk is Larry?",
+        "answer": "a",
+        "options": {
+            "a":"Adequate",
+            "b":"Poor",
+            "c":"Nonexistent",
+            "d":"Bogus"
+        }
+    },{
+        "question":"According to “Whose Whom,” how tall is Larry Laffer?",
+        "answer": "c",
+        "options": {
+            "a":"Tall enough to reach the ground",
+            "b":"Four feet, nine inches",
+            "c":"Five feet, five inches",
+            "d":"69 inches, what else?"
+        }
+    },{
+        "question":"According to the “Palamino Ranch” brochure, Old Faceful erupts every",
+        "answer": "a",
+        "options": {
+            "a":"35 minutes",
+            "b":"25 minutes",
+            "c":"20 minutes",
+            "d":"time you smile at it"
+        }
+    }
+]
